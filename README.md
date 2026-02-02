@@ -1,6 +1,6 @@
 # Instant Search Python
 
-Ensure UV is installed.
+Ensure UV is installed. If needed, [check the installation instructions](https://docs.astral.sh/uv/getting-started/installation/). 
 
 ## Start the app
 
@@ -8,4 +8,4 @@ Ensure UV is installed.
 uv run uvicorn app.main:app --reload
 ```
 
-APp running at: http://localhost:8000
+The app is running at: http://localhost:8000
