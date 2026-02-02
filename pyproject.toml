@@ -1,10 +1,7 @@
 [project]
 name = "instant-search-python"
 version = "0.1.0"
-description = "Add your description here"
+description = "Instant search API interview project with python."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = [
-    "fastapi>=0.128.0",
-    "uvicorn>=0.40.0",
-]
+dependencies = ["fastapi>=0.128.0", "uvicorn>=0.40.0"]
